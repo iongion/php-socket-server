@@ -1,5 +1,5 @@
 {
-    "name": "istoica/socket-server",
+    "name": "istoica/php-socket-server",
     "description": "PHP multi-user socket server",
     "type": "library",
     "license": "MIT",
