@@ -1,0 +1,30 @@
+{
+    "name": "istoica/socket-server",
+    "description": "PHP multi-user socket server",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ionut stoica",
+            "email": "stoica.ionut@gmail.com"
+        },
+        {
+            "name": "Chris Zuber",
+            "email": "shgysk8zer0@gmail.com"
+        },
+        {
+            "name": "Lukasz Kujawa",
+            "email": "lukasz@php.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.6.*"
+    },
+    "autoload": {
+        "psr-4": {"ro\\": "src/"}
+    }
+}
